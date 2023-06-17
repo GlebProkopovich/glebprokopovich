@@ -14,4 +14,8 @@ Languages and tools:
 
 
 
-Follow me
+Write me
+<br/>
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-8B95C9)](https://t.me/glebprokopovich)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ACD7EC)](https://www.linkedin.com/in/gprokopovich/)
+
