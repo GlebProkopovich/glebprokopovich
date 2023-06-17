@@ -2,7 +2,8 @@
 
 ## I'm frontend developer (junior)
 
-Languages and tools
+Languages and tools:
+<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-9CFFFA)
 ![CSS3](https://img.shields.io/badge/CSS3-ACF39D)
 ![SCSS](https://img.shields.io/badge/SCSS-B0C592)
