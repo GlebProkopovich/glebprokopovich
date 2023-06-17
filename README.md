@@ -1,6 +1,6 @@
 ![Header](https://github.com/GlebProkopovich/glebprokopovich/blob/main/assets/githubBannerProkopovich.png)
 
-About me
+## I'm frontend developer (junior)
 
 Languages and tools
 
