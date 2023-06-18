@@ -11,7 +11,7 @@ Languages and tools:
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-B7B5E4)
 ![REACT](https://img.shields.io/badge/REACT-CFCCD6)
 ![REDUX](https://img.shields.io/badge/REDUX-BBC2E2)
-
+![STYLED_COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-424B54)
 
 
 Write me
