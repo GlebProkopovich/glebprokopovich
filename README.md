@@ -3,7 +3,7 @@
 <h3 align="center">Frontend developer from Belarus located in Tbilisi</h3>
 
 - 🔭 I’m currently open to work <br/>
-- 🤔 I'm highly interested in creating modern and aesthetically pleasing interfaces, but I'm also open to learning new technologies. If you have any opportunities or suggestions, please feel free to reach out to me <br/>
+- 🤔 I'm highly interested in creating modern and aesthetically pleasing interfaces, but I'm also open to learning new technologies. <br/> If you have any opportunities or suggestions, please feel free to reach out to me <br/>
 - 🌱 I’m currently learning: Angular and English <br/>
 - 📫 How to reach me: <a href="https://t.me/glebprokopovich" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/gprokopovich/" target="_blank">LinkedIn</a>
 
