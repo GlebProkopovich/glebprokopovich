@@ -19,4 +19,5 @@
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&color=475e78)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white&color=475e78)
 ![NgRx](https://img.shields.io/badge/NgRx-%23B7178C.svg?style=for-the-badge&logo=redux&logoColor=white&color=475e78)
+![UNIT TESTS](https://img.shields.io/badge/UNIT_TESTS-%23CC6699.svg?style=for-the-badge&color=475e78)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=475e78)
