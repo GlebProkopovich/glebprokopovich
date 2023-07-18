@@ -5,7 +5,7 @@
 - 🔭 I’m currently open to work <br/>
 - 🤔 I'm highly interested in creating modern and aesthetically pleasing interfaces, but I'm also open to learning new technologies. If you have any opportunities or suggestions, please feel free to reach out to me. <br/>
 - 🌱 I’m currently learning: Angular and English 😄 <br/>
-- 📫 How to reach me: Telegram [@glebprokopovich](https://t.me/glebprokopovich) or LinkedIn [in/gleb-prokopovich](https://www.linkedin.com/in/gprokopovich/) 
+- 📫 How to reach me: <a href="https://t.me/glebprokopovich" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/gprokopovich/" target="_blank">LinkedIn</a>
 
 ## My tech stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=475e78)
