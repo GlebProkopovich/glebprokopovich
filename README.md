@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/gprokopovich/" target="_blank">Gleb</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior frontend developer from Belarus located in Baranovichi/Minsk</h3>
+<h3 align="center">Junior frontend developer from Belarus located in Baranovichi / Minsk</h3>
 
 - 🔭 I’m currently open to work <br/>
 - 🤔 I'm highly interested in creating modern and aesthetically pleasing interfaces, but I'm also open to learning new technologies. <br/> If you have any opportunities or suggestions, please feel free to reach out to me <br/>
