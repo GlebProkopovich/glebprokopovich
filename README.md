@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=475e78)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=475e78)
 ![Yandex Metrika](https://img.shields.io/badge/Yandex_Metrika-%23CC6699.svg?style=for-the-badge&color=475e78)
-![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-%23CC6699.svg?style=for-the-badge&logo=sql&color=475e78)
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-%23CC6699.svg?style=for-the-badge&logo=sql&logoColor=white&color=475e78)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-%23CC6699.svg?style=for-the-badge&color=475e78)
 ![SQL](https://img.shields.io/badge/SQL-%23CC6699.svg?style=for-the-badge&color=475e78)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23CC6699.svg?style=for-the-badge&color=475e78)
