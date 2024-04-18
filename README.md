@@ -15,5 +15,5 @@
 ![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-%23CC6699.svg?style=for-the-badge&logo=sql&logoColor=white&color=475e78)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-%23CC6699.svg?style=for-the-badge&color=475e78)
 ![SQL](https://img.shields.io/badge/SQL-%23CC6699.svg?style=for-the-badge&color=475e78)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23CC6699.svg?style=for-the-badge&color=475e78)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23CC6699.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=475e78)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23CC6699.svg?style=for-the-badge&color=475e78)
