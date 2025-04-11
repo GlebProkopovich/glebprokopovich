@@ -10,7 +10,7 @@
 ## My tech stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=475e78)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=475e78)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=475e78)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&color=475e78)
 ![Python](https://img.shields.io/badge/Python-%23CC6699.svg?style=for-the-badge&logo=python&logoColor=white&color=475e78)
 ![Yandex Metrika](https://img.shields.io/badge/Yandex_Metrika-%23CC6699.svg?style=for-the-badge&color=475e78)
 ![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-%23CC6699.svg?style=for-the-badge&logo=googleanalytics&logoColor=white&color=475e78)
