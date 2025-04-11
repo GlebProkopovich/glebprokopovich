@@ -5,7 +5,7 @@
 - 🔭 I currently work at ADVelop marketing agency. <br/>
 - 🤔 I'm highly interested in web analytics and programming, but I'm also open to learning new technologies. <br/> If you have any opportunities or suggestions, please feel free to reach out to me. <br/>
 - 🌱 I’m currently learning web analytics tools.  <br/>
-- 📫 How to reach me: <a href="http://linkedin.com/in/gleb-prokopovich-4b774b305" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/gprokopovich/" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="t.me/glebprokopovich" target="_blank">Telegram</a> or <a href="http://linkedin.com/in/gleb-prokopovich-4b774b305" target="_blank">LinkedIn</a>
 
 ## My tech stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=475e78)
